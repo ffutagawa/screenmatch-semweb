@@ -1,4 +1,4 @@
-package br.com.alura.Screenmatch.service;
+package br.com.alura.Screenmatch2.service;
 
 import java.io.IOException;
 import java.net.URI;
